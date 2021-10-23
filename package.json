@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-rest-api",
+  "version": "1.0.0",
+  "description": "Project developed during Alura's course about \" Rest with NodeJs: API using Express and MySQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateusdomelo/nodejs-rest-api.git"
+  },
+  "author": "Mateus Melo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mateusdomelo/nodejs-rest-api/issues"
+  },
+  "homepage": "https://github.com/mateusdomelo/nodejs-rest-api#readme"
+}
