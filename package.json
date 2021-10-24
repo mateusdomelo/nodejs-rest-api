@@ -4,6 +4,7 @@
   "description": "Project developed during Alura's course about \" Rest with NodeJs: API using Express and MySQL",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/mateusdomelo/nodejs-rest-api/issues"
   },
-  "homepage": "https://github.com/mateusdomelo/nodejs-rest-api#readme"
+  "homepage": "https://github.com/mateusdomelo/nodejs-rest-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
 }
